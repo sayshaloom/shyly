@@ -1,1 +1,3 @@
-    document.body.innerHTML = "Hi";
+    for (let i = 0; i < 5; i++) {
+    document.body.innerHTML += "HHHHHH<br>";
+}
