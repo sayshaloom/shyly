@@ -1,1 +1,1 @@
-document.body.innerHTML += "Hi";
+document.body.innerHTML = "Hi";
