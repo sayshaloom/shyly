@@ -1,3 +1,1 @@
-for (let i = 0; i < 5; i++) {
-    document.body.innerHTML += "Hi<br>";
-}
+    document.body.innerHTML = "Hi";
