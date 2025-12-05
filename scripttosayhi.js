@@ -1,4 +1,3 @@
-for (let i = 0; i < 5; i++) {
-  console.log("Hi");
+ffor (let i = 0; i < 5; i++) {
+    document.body.innerHTML += "Hi";
 }
-
